@@ -5,7 +5,7 @@ Positions are entered using 1-based numbering.
 */
 #include <stdio.h>
 
-int main(void) {
+int main() {
     int i, n, position, a[100];
 
     printf("Enter number of elements (1 to 100): ");

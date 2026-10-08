@@ -4,7 +4,7 @@ Write a program to find the first and last digit of a number.
 */
 #include <stdio.h>
 
-int main(void) {
+int main() {
     int num, first, last, count;
 
     printf("Enter any number: ");

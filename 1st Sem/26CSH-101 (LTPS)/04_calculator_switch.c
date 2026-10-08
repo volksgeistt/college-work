@@ -5,7 +5,7 @@ using a switch statement.
 */
 #include <stdio.h>
 
-int main(void) {
+int main() {
     int a, b, op;
 
     printf("Enter two numbers: ");

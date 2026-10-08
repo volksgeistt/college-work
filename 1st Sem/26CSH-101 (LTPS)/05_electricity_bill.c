@@ -5,7 +5,7 @@ changes by slab, and calculate the total bill.
 */
 #include <stdio.h>
 
-int main(void) {
+int main() {
     int units;
     float bill;
 

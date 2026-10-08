@@ -5,7 +5,7 @@ The user provides the starting and ending values.
 */
 #include <stdio.h>
 
-int main(void) {
+int main() {
     int a, b, i, count = 0;
 
     printf("Enter first and last values: ");

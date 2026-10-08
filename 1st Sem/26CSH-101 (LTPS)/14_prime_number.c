@@ -4,7 +4,7 @@ Write a program to find whether a number is prime or not.
 */
 #include <stdio.h>
 
-int main(void) {
+int main() {
     int num, i, isPrime = 1;
 
     printf("Enter a number: ");

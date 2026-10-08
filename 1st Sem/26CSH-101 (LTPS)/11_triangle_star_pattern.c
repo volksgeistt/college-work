@@ -4,7 +4,7 @@ Write a program to display a triangle pattern using asterisks.
 */
 #include <stdio.h>
 
-int main(void) {
+int main() {
     int i, j;
 
     for (i = 1; i <= 5; i++) {

@@ -4,7 +4,7 @@ Write a program to find the largest element in an array.
 */
 #include <stdio.h>
 
-int main(void) {
+int main() {
     int i, a[5], largest;
 
     printf("Enter 5 elements: ");

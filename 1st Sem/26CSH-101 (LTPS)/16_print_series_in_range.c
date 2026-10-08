@@ -5,7 +5,7 @@ values provided by the user) and display those numbers.
 */
 #include <stdio.h>
 
-int main(void) {
+int main() {
     int a, b, i;
 
     printf("Enter first number: ");

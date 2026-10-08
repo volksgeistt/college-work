@@ -5,7 +5,7 @@ then calculate and display the total and average marks.
 */
 #include <stdio.h>
 
-int main(void) {
+int main() {
     char name[50];
     float sub1, sub2, sub3, sub4, sub5, total, avg;
 

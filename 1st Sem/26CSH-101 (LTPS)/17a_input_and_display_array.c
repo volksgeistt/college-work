@@ -4,7 +4,7 @@ Question / Aim:
 */
 #include <stdio.h>
 
-int main(void) {
+int main() {
     int i, a[5];
 
     printf("Enter 5 values: ");

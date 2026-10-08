@@ -5,7 +5,7 @@ This version follows the three-digit Armstrong-number method in the notebook.
 */
 #include <stdio.h>
 
-int main(void) {
+int main() {
     int num, original, digit, sum = 0;
 
     printf("Enter a number: ");

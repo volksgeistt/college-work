@@ -4,7 +4,7 @@ Question / Aim:
 */
 #include <stdio.h>
 
-int main(void) {
+int main() {
     int i, a[5] = {2, 12, 22, 32, 42};
 
     printf("The values are:\\n");

@@ -4,7 +4,7 @@ Write a program to print the table of any number using a loop.
 */
 #include <stdio.h>
 
-int main(void) {
+int main() {
     int num, i;
 
     printf("Enter the number: ");

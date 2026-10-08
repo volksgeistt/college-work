@@ -4,7 +4,7 @@ Write a program to delete an element from an array from the end.
 */
 #include <stdio.h>
 
-int main(void) {
+int main() {
     int i, n, a[100];
 
     printf("Enter number of elements (1 to 100): ");

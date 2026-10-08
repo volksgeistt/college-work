@@ -5,7 +5,7 @@ if-else-if statements, based on marks in five subjects.
 */
 #include <stdio.h>
 
-int main(void) {
+int main() {
     char name[50];
     float a, b, c, d, e, avg;
 

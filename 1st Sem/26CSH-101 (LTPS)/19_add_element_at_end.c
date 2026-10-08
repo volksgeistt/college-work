@@ -4,7 +4,7 @@ Write a program to add an element at the end of an array.
 */
 #include <stdio.h>
 
-int main(void) {
+int main() {
     int i, n, value, a[101];
 
     printf("Enter number of elements (maximum 100): ");

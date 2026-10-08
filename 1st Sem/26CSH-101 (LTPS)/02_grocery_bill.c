@@ -5,7 +5,7 @@ the total amount to be paid, including 18% GST.
 */
 #include <stdio.h>
 
-int main(void) {
+int main() {
     char item[50];
     float price, quantity, amount, gst, total;
 

@@ -5,7 +5,7 @@ then find the sum of all even numbers in that range.
 */
 #include <stdio.h>
 
-int main(void) {
+int main() {
     int a, b, i, sum = 0;
 
     printf("Enter starting number: ");
